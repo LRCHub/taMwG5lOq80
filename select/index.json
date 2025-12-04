@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "SWEET TWEET",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-04T18:32:42.369656Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SWEET TWEET",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/01_SWEET_TWEET_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweet Tweet",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/02_Sweet_Tweet_Official髭男dism.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SWEET TWEET",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_SWEET_TWEET_Official髭男dism.txt"
+    }
+  ]
+}
